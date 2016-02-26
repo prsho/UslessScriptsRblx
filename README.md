@@ -1,2 +1,2 @@
 # UslessScriptsRblx
-This is a collection of scripts that I made for roblox. Enjoy!
+Soooo... I am bored and decided to visit Github to let everyone grab my scripts. Here you go. Enjoy! <3 Das
