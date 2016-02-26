@@ -2,7 +2,7 @@
 
 print("Usless Script v 0.01 is Up and Running")
 function
-game.GameStorage.Repository.UselessRunning.Value = true
+game.ServerStorage.Repository.UselessRunning.Value = true
 end
 
 --End of script.
